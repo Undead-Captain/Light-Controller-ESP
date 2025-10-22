@@ -1,3 +1,3 @@
 ### Light Controller ESP
 
-idk maybe controles the led 🤔
+idk maybe controles the led 🤔.
